@@ -1,0 +1,41 @@
+var mes = prompt("Que mes es?")
+if(mes==1){
+	alert("Frio")
+}
+if(mes==2){
+	alert("Frio")
+}
+if(mes==12){
+	alert("frio")
+}
+if(mes==3){
+	alert("Primavera")
+}
+if(mes==4){
+	alert("Primavera")
+}
+if(mes==5){
+	alert("Primavera")
+}
+if(mes==6){
+  alert("verano")
+}
+if(mes==7){
+  alert("Verano")
+}
+if(mes==8){
+  alert("Verano")
+}
+if(mes==9){
+  alert("Otoño")
+}
+if(mes==10){
+  alert("Otoño")
+}
+if(mes==11){
+  alert("Otoño")
+}
+if(mes==""){
+  alert("Porfavor introduzca elnúmero de mes")
+}
+alert("Carné:21005713, Joel Iván Mejía Orellana")
